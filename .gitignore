@@ -1,0 +1,13 @@
+#ignore dir
+bin/
+.loadpath
+.settings/
+
+# ignore file
+*.class
+*.jar
+local.properties
+.classpath
+.DS_Store
+.project
+
